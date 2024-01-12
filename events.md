@@ -2,8 +2,6 @@
 layout: page
 title: Events
 ---
-## Events 
-
 We will be holding research talks and lunches with cohort members! Please reach out to our organizing faculty below if you are interested in holding a talk. 
 
 ## Research Talks
