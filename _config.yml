@@ -2,7 +2,7 @@
 
 # Setup
 title:               HCT at UVA
-tagline:             'a cohort at the UVA School of Engineering and Applied Science'
+tagline:             'a cohort at the UVA SEAS'
 description:         'HCT at UVA is a Human-Centered Design and Engineering Cohort aiming to unite faculty members engaged in research on human factors, computation, and artificial intelligence (AI) to address the pressing need for human-centered technology solutions.'
 url:                 'http://hai-lab-uva.github.io'
 baseurl:             '/uvahct'
@@ -25,7 +25,7 @@ encoding: utf-8
 
 # Collections for texts
 collections:
-  texts:
+  talks:
     output: true
 
 # Markdown specs
