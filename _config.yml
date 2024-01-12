@@ -5,13 +5,13 @@ title:               Ed.
 tagline:             'a jekyll theme for minimal editions'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+baseurl:             '/uvahct'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Andrew Balch
+  url:               https://github.com/andbalch
+  email:             xxv2zh@virginia.edu
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
