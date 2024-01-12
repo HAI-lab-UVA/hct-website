@@ -32,6 +32,7 @@ nbproject
 *.sublime-project
 *.sublime-workspace
 .idea
+desktop.ini
 
 # Komodo
 *.komodoproject
