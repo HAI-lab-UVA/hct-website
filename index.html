@@ -21,7 +21,21 @@ title: "HCT at UVA"
 <div class="toc">
   <h2>Upcoming Talks</h2>
   <ul class="talks">
-  {% for item in site.talks %}
+  {% for item in site.upcomingtalks %}
+
+    <li class="talk-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+
+<div class="toc">
+  <h2>Past Talks</h2>
+  <ul class="talks">
+  {% for item in site.pasttalks %}
 
     <li class="talk-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
