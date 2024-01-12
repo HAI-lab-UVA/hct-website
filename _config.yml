@@ -4,8 +4,8 @@
 title:               HCT at UVA
 tagline:             'a cohort at the UVA School of Engineering and Applied Science'
 description:         'HCT at UVA is a Human-Centered Design and Engineering Cohort aiming to unite faculty members engaged in research on human factors, computation, and artificial intelligence (AI) to address the pressing need for human-centered technology solutions.'
-url:                 'http://hai-lab-uva.github.io'
-baseurl:             '/uvahct'
+url:                 'http://hai-lab-uva.github.io/uvahct'
+baseurl:             ''
 
 # About/contact
 author:
